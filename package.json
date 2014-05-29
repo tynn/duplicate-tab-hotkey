@@ -1,0 +1,19 @@
+{
+	"name": "duplicate-tab-hotkey",
+	"title": "Duplicate Tab Hotkey",
+	"id": "duplicate-tab-hotkey@tynn.addons.mozilla.org",
+	"description": "A Duplicate Tab Hotkey bound to Accel+K.",
+	"author": "Christian Schmitz <tynn.dev@gmail.com>",
+	"homepage": "https://github.com/tynn/duplicate-tab-hotkey",
+	"license": "MPL 2.0",
+	"version": "0.1",
+	"permissions": { "private-browsing": true },
+	"main": "accel-k",
+	"lib": "",
+	"localized": {
+		"de": {
+			"title": "Tab duplizieren Tastenkombination",
+			"description": "Fügt die Tastenkombination Accel+K zum duplizieren des offenen Tabs hinzu."
+		}
+	}
+}
