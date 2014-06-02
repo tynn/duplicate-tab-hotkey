@@ -10,8 +10,8 @@ const prefs = require("sdk/preferences/service");
 require("sdk/hotkeys").Hotkey({
 	combo: "accel-k",
 	onPress: function () {
-		var tab = tabs.getActiveTab(windows.getMostRecentBrowserWindow());
-		var tabbrowser = tabs.getTabBrowserForTab(tab);
+		let tab = tabs.getActiveTab(windows.getMostRecentBrowserWindow());
+		let tabbrowser = tabs.getTabBrowserForTab(tab);
 		tab = tabbrowser.duplicateTab(tab);
 		if (!prefs.get("browser.tabs.loadInBackground", true))
 			tabbrowser.selectedTab = tab;
