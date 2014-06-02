@@ -14,6 +14,7 @@
 		"de": {
 			"title": "Tab duplizieren Tastenkombination",
 			"description": "Fügt die Tastenkombination Accel+K zum duplizieren des offenen Tabs hinzu."
-		}
+		},
+		"en": {}
 	}
 }
