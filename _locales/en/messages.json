@@ -1,0 +1,10 @@
+{
+  "Name" :{
+    "message": "Duplicate Tab Hotkey",
+    "description": ""
+  },
+  "Description" :{
+    "message": "A Duplicate Tab Hotkey bound to Accel+K.",
+    "description": ""
+  }
+}

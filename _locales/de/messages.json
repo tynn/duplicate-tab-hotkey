@@ -1,0 +1,10 @@
+{
+  "Name" :{
+    "message": "Tab duplizieren Tastenkombination",
+    "description": ""
+  },
+  "Description" :{
+    "message": "Fügt die Tastenkombination Accel+K zum duplizieren des offenen Tabs hinzu.",
+    "description": ""
+  }
+}

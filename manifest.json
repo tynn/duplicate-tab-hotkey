@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+
+  "name": "__MSG_Name__",
+  "description": "__MSG_Description__",
+  "homepage_url": "https://addons.mozilla.org/de/firefox/addon/duplicate-tab-hotkey/",
+
+  "default_locale": "en",
+
+  "commands": {
+    "accel-k": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+K"
+      },
+      "description": "__MSG_Description__"
+    }
+  },
+
+  "background": {
+    "scripts": ["accel-k.js"]
+  }
+}
