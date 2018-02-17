@@ -4,7 +4,7 @@
     "description": ""
   },
   "Description" :{
-    "message": "Fügt die Tastenkombination Accel+K zum duplizieren des offenen Tabs hinzu.",
+    "message": "Fügt die Tastenkombination Accel+Shift+K zum duplizieren des offenen Tabs hinzu.",
     "description": ""
   }
 }
